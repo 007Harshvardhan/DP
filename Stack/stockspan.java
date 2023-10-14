@@ -1,5 +1,6 @@
 package Stack;
 import java.util.*;
+//Compamny Na,e -> Amozon ,filpkart,adobe,macrosoft"
 public class stockspan {
     public static void spancheck(int stock[]){
         Stack<Integer> s=new Stack<>();
